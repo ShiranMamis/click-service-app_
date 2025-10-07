@@ -1,0 +1,38 @@
+{
+  "name": "click-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "^14.2.15",
+    "axios": "^1.7.7",
+    "cross-spawn": "^7.0.6",
+    "date-fns": "^4.1.0",
+    "dayjs": "^1.11.13",
+    "lottie-web": "^5.12.2",
+    "lucide-react": "^0.456.0",
+    "nanoid": "^5.0.9",
+    "next": "^15.1.5",
+    "qrcode.react": "^4.1.0",
+    "qs": "^6.13.1",
+    "react": "^19.0.0",
+    "react-calendar": "^5.1.0",
+    "react-circular-progressbar": "^2.1.0",
+    "react-dom": "^19.0.0",
+    "react-loading-skeleton": "^3.5.0",
+    "react-qr-reader": "^3.0.0-beta-1",
+    "react-router-dom": "^6.28.0",
+    "react-toastify": "^10.0.6",
+    "swr": "^2.2.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
